@@ -1,6 +1,5 @@
 # https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages 
 
-
 name: Deploy Vue app via GitHub Pages
 
 on:
